@@ -5,13 +5,12 @@
   <img  src="images/logo.jpeg" height="200" width="450" />
 </div>
 
-# Description 😋
-
+# Description
 > This is a collection of JavaScript tips and tricks. you can refer to it and apply it to make your code more concise. **But don't overdo it**, it can make your code difficult to read and maintain. Hope everyone contributes, thanks.
 
 <!-- table of content -->
 
-# Table Of Content 📃
+# Table Of Content
 
 - [Description](#description)
 - [Table Of Content](#table-of-content)
